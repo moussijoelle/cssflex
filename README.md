@@ -1,12 +1,12 @@
-﻿# Ejercicio Flexbox
+# Ejercicio Flexbox
 
-Maquetación tipo panel (barra lateral + cabecera + contenido) usando CSS Flexbox.
+Maquetación tipo panel (barra lateral + cabecera + contenido) solo con Flexbox.
 
 ## Qué hace
 
-- Layout con aside de iconos y zona derecha
+- Aside con iconos
 - Cabecera con buscador y perfil
-- Practica `display: flex` y alineación
+- Zona de contenido a la derecha
 
 ## Cómo probarlo
 
@@ -16,12 +16,11 @@ Demo: https://moussijoelle.github.io/cssflex/
 
 ## Cómo lo construí
 
-- HTML + CSS (`css/flexbox.css`)
-- Iconos e imágenes en `img/`
+HTML + `css/flexbox.css`. Iconos e imágenes en `img/`.
 
 ## Cómo verificarlo
 
-Sin tests. Redimensiono la ventana y miro que el layout se mantenga coherente.
+Ensacho y estrecho la ventana para ver si el layout aguanta.
 
 ---
 
